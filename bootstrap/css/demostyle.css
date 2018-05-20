@@ -3,7 +3,7 @@ body{
 }
 .blue{
     background-color: cornflowerblue;
-    height: 50px;
+    height: 100px;
 }
 .green{
     background-color: greenyellow;
@@ -20,6 +20,20 @@ body{
     height: 100px;
 }
 
+.pink{
+    background-color: pink;
+    height: 50px;
+}
+
+.yellow{
+    background-color: yellow;
+    height: 300px;
+}
+
+.lime{
+    background-color: lime;
+    height: 200px;
+}
 /* sm devices */ 
 @media (min-width: 576px){
     body{
