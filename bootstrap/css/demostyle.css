@@ -1,6 +1,16 @@
 body{
-    /*background-color: red;*/
+    font-family: 'Montserrat', sans-serif;
+    color: black;
 }
+
+.white{
+    height: 150px;
+    background-color: white;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+
 .blue{
     background-color: cornflowerblue;
     height: 100px;
@@ -18,6 +28,8 @@ body{
 .grey{
     background-color: darkgray;
     height: 100px;
+    padding-left: 40%;
+    padding-right: 40%;
 }
 
 .pink{
